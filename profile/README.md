@@ -7,11 +7,21 @@
 
 
 # Description of our project 
-> ＯＵＲ　ＣＯＭＰＡＮＹ：
+> ＯＵＲ　ＣＯＭＰＡＮＹ：Cyber Fortress Technologies is a cybersecurity company specializing in providing comprehensive solutions for improving the security and protection of cloud infrastructure. Cyber Fortress Technologies is a highly skilled and experienced cybersecurity company that offers comprehensive solutions to protect cloud infrastructure. Cyber Security focused on robust IAM implementation, VPC segmentation, server hardening, data encryption, and real-time monitoring, Cyber Security aim to provide their clients with a secure and resilient cloud environment.
 
 > ＯＵＲ　ＳＣＥＮＡＲＩＯ：Cyber Fortress Technologies has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure. Our client has requested a demonstration of how we'll be able to protect their cloud infrastructure.
 
-> ＯＵＲ　ＳＯＬＵＴＩＯＮ：Our solution involves implementing IAM accounts for all team members in accordance with AWS best practices. To ensure the security of our client, Cyber Fortress has decided to implement a Virtual Private Cloud (VPC), subnetting the network into a private and public subnet. Windows Server DC will be hosted on a private subnet of a VPC. The server will be CIS-compliant and Cyber Fortress will ensure server hardening and data protection on the server. Data will be encrypted at rest and encrypted in transit. In addition, Cyber Fortress will setup a Linux server instance containing PII and PCI data, ensuring CIS-compliance. For continuous security, Cyber Fortress will monitor event logs in real time from key assets including EC2 intances. Cyber Fortress will demonstrate an attack on the cloud infustructure to demonstrate cloud monitoring. 
+> ＯＵＲ　ＳＯＬＵＴＩＯＮ：Cyber Fortress Technologies has developed a comprehensive solution to address the cybersecurity needs of the client company's cloud infrastructure. Their approach begins by implementing IAM accounts following AWS best practices, ensuring that access to the cloud environment is tightly controlled and monitored. To establish a secure network architecture, they deploy a Virtual Private Cloud (VPC) and divide it into private and public subnets. This segregation isolates critical resources from the public internet, safeguarding them from potential threats.
+
+Within the private subnet, Cyber Fortress sets up a Windows Server domain controller (DC) that adheres to rigorous CIS-compliance standards. They prioritize server hardening techniques and implement robust data protection measures, encrypting data both at rest and in transit. This ensures that sensitive information remains secure and inaccessible to unauthorized individuals.
+
+To accommodate the storage of Personally Identifiable Information (PII) and Payment Card Industry (PCI) data, Cyber Fortress deploys a Linux server instance in compliance with CIS standards. This dedicated server guarantees that the highest level of security is maintained for handling sensitive data.
+
+As an integral part of their solution, Cyber Fortress establishes continuous security monitoring by actively monitoring event logs in real time, focusing on key assets such as EC2 instances. This proactive approach enables them to swiftly identify any signs of suspicious or malicious activity, enabling immediate response and mitigation.
+
+To demonstrate the effectiveness of their solution, Cyber Fortress performs a simulated attack on the client's cloud infrastructure. This exercise showcases their robust cloud monitoring capabilities and detection mechanisms, providing the client with a firsthand understanding of the protection and response capabilities Cyber Fortress brings to their cloud environment.
+
+Overall, Cyber Fortress Technologies offers a comprehensive solution encompassing IAM implementation, VPC segmentation, server hardening, data encryption, and real-time monitoring. By implementing industry best practices and adhering to rigorous compliance standards, they provide the client with a secure and resilient cloud infrastructure, empowering them to confidently protect their sensitive data and assets from potential cyber threats. 
 
 
 # The Team
