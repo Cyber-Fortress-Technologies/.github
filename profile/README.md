@@ -1,6 +1,9 @@
-![](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Your%20paragraph%20text.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pathway+Extreme&weight=500&size=25&duration=3000&pause=1000&color=A40000&width=435&lines=WELCOME+TO+CYBER+FORTRESS+%F0%9F%91%8B++%F0%9F%91%8B)](https://git.io/typing-svg)
+
+![(https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Your%20paragraph%20text.png)](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png)
+
+
 
 
 
