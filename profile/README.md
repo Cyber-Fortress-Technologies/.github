@@ -7,9 +7,8 @@
 </p>
 
 # The Team
-### Spencer
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Spencer</b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/spencymitch">
@@ -24,9 +23,8 @@
 Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
 </details>
 
-### Rob
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Rob</b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/RobG-11">
@@ -41,9 +39,8 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
 </details>
 
-### Nick
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Nick</b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/NicholasLoiacono">
@@ -58,9 +55,8 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
 </details>
 
-### Stan
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Stan</b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/Sfergy3">
@@ -75,9 +71,8 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
 </details>
 
-### Connie
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>✨About Connie</b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/connieuribe/">
