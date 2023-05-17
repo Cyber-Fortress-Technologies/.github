@@ -1,10 +1,18 @@
-
 <p align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+)](https://git.io/typing-svg">
 </p>
 <p align="center">
   <img width="460" height="400" src="https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png">
 </p>
+
+
+# Description of our project 
+ＯＵＲ　ＣＯＭＰＡＮＹ：
+
+ＯＵＲ　ＳＣＥＮＡＲＩＯ：
+
+ＯＵＲ　ＳＯＬＵＴＩＯＮ：
+
 
 # The Team
 <details>
@@ -91,6 +99,22 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
+# PM Tools used 
+- [Trello Board](https://trello.com/b/x76ADRAC/project-management)
+
+
+
+# 🔎Repos ✒️
+
+
+# Slideshow presentation and presentation video 
+- [Slide show upload]()
+- [Video Presentation Upload]()
+
+
+
+
+# Topology and other images 
 
 
 
@@ -116,13 +140,31 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
 
 
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
