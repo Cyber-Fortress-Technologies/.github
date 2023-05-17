@@ -1,3 +1,5 @@
+![profile/Gold & Cream Modern Fortress Security Logo.png](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png)
+
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Second+line+of+text)](https://git.io/typing-svg)
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
