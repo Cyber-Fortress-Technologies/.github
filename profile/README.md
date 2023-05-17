@@ -1,55 +1,126 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&center=true&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+)](https://git.io/typing-svg)
 
+<p align="center">
+  <img  src="https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+)](https://git.io/typing-svg">
+</p>
+<p align="center">
+  <img width="460" height="400" src="https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png">
+</p>
 
-<div id="header" align="right">
-  <img src="https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png"  width="50%" height="50%">
-</div>
-
-![(https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Your%20paragraph%20text.png)](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png)
-
-https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table>
-    <tbody>
+# The Team
+### Spencer
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+  <tbody>
         <tr>
-            <td><a href="https://medium.com/@zluvsand">
-            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            <td><a href="https://github.com/spencymitch">
+            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
             </a></td>
-            <td><a href="https://www.linkedin.com/in/zluvsand/">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-            </a></td>
-            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            <td><a href="https://www.linkedin.com/in/spencymitch/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
             </a></td>
         </tr>
-    </tbody>
+    </tbody><br/>
 </table>
+Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+</details>
+
+### Rob
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+  <tbody>
+        <tr>
+            <td><a href="https://github.com/RobG-11">
+            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/robertgregor11/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a></td>
+        </tr>
+    </tbody><br/>
+</table>
+Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+</details>
+
+### Nick
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+  <tbody>
+        <tr>
+            <td><a href="https://github.com/NicholasLoiacono">
+            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/loiaconon/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a></td>
+        </tr>
+    </tbody><br/>
+</table>
+Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+</details>
+
+### Stan
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+  <tbody>
+        <tr>
+            <td><a href="https://github.com/Sfergy3">
+            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/slfiii/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a></td>
+        </tr>
+    </tbody><br/>
+</table>
+Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+</details>
+
+### Connie
+<details>
+    <summary><b>✨About Me</b></summary><br/>
+  <tbody>
+        <tr>
+            <td><a href="https://github.com/connieuribe/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/connieuribe/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+            </a></td>
+        </tr>
+    </tbody><br/>
+</table>
+Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
@@ -76,7 +147,21 @@ https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20
 
 
 
-
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://medium.com/@zluvsand">
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 
 
 
