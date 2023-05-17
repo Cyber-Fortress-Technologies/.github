@@ -1,4 +1,14 @@
+<div id="header" align="right">
+  <img src="https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png"  width="30%" height="30%">
+</div>
 
+
+
+
+
+
+
+![](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/giphy%20(1).gif)
 
 
 ![profile/Gold & Cream Modern Fortress Security Logo.png](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png)
