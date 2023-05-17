@@ -1,9 +1,10 @@
+![logo](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/github-header-image%20(1).png)
+
+
 <p align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+)](https://git.io/typing-svg">
 </p>
-<p align="center">
-  <img width="460" height="400" src="https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png">
-</p>
+
 
 
 # Description of our project 
