@@ -2,9 +2,8 @@
 
 
 <p align="center">
-  <img  src="https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+)](https://git.io/typing-svg">
+  <img  src="https://readme-typing-svg.demolab.com?font=fira+code&size=25&duration=3000&pause=1000&color=A40000&multiline=true&width=435&lines=Welcome+To+Cyber+Fortress+%F0%9F%91%8B+">
 </p>
-
 
 
 # Description of our project 
@@ -137,27 +136,6 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
@@ -180,6 +158,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=CF0000&width=435&lines=Welcome+to+Cyber+Fortress++%F0%9F%91%8B)](https://git.io/typing-svg)
 ![](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/giphy%20(1).gif)
 
 
