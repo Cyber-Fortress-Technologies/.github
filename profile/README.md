@@ -1,4 +1,32 @@
+
+
+
 ![profile/Gold & Cream Modern Fortress Security Logo.png](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/Gold%20%26%20Cream%20Modern%20Fortress%20Security%20Logo.png)
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
+
+
+
+
+
+
+
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="https://medium.com/@zluvsand">
+            <img height="50" src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" />
+            </a></td>
+            <td><a href="https://www.linkedin.com/in/zluvsand/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;Second+line+of+text)](https://git.io/typing-svg)
