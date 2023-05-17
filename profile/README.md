@@ -1,4 +1,4 @@
-![logo](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/github-header-image%20(1).png)
+![logo](https://github.com/Cyber-Fortress-Technologies/.github/blob/main/profile/github-header-Cyber-Fortress.png)
 
 
 <p align="center">
