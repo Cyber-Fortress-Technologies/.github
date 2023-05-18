@@ -158,6 +158,33 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
+<ShieldCheckIcon size={24} />
+
+![](https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=ShieldCheckIcon&logoColor=red)
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/ShieldCheckIcon/>/red" />
+
+
+
+
+
+
+<a href="https://github.com/NightOwlNetwork/SOP#readme"><img align="left" src="https://custom-icon-badges.demolab.com/badge/custom-badge-blue.svg?logo=paintbrush&logoColor=white" alt="SOPs | GitHub Repo" width="300px"/></a>
+</br>
+</br>
+<a href="https://github.com/NightOwlNetwork/Documentation-#readme"><img align="left" src="https://img.shields.io/badge/Repo-Documentations-red" alt="Documentation | GitHub Repo" width="200px"/></a> 
+</br>
+</br>
+<a href="https://github.com/NightOwlNetwork/Automation-Scripts#readme"><img align="left" src="https://img.shields.io/badge/Repo-Scripts-red" alt="Automation Scripts | GitHub Repo" width="115px"/></a> 
+</br>
+</br>
+
+
+
+
+
+
 
 
 
