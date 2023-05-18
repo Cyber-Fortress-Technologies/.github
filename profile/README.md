@@ -18,7 +18,7 @@
 >As an integral part of their solution, Cyber Fortress establishes continuous security monitoring by actively monitoring event logs in real time, with a focus on key assets such as EC2 instances. This proactive approach allows for the swift detection of any suspicious or malicious activities, enabling immediate response and mitigation to potential threats. To demonstrate the effectiveness of their solution, Cyber Fortress performs a simulated attack on the client's cloud infrastructure. This exercise showcases the robust cloud monitoring capabilities and detection mechanisms that Cyber Fortress brings to the table, providing the client with a firsthand understanding of the level of protection and response capabilities they can expect in their cloud environment.
 
 
-# The Team
+# The team
 <details>
     <summary><b>✨About Spencer</b></summary><br/>
   <tbody>
@@ -103,7 +103,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
-# PM Tools used 
+# PM tools used 
 - [Trello Board](https://trello.com/b/x76ADRAC/project-management)
 
 
