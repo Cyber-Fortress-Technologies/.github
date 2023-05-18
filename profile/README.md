@@ -105,11 +105,15 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 # PM tools used 
+https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
 - [Trello Board](https://trello.com/b/x76ADRAC/project-management)
 
 
 
 # 🔎Repos ✒️
+![badge](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=null&logoColor=white)
+![](https://img.shields.io/static/v1?label=shield&message=message&color=red)
+
 
 
 # Slideshow presentation and presentation video 
