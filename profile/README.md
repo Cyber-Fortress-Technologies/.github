@@ -11,14 +11,12 @@
 
 > ＯＵＲ　ＳＣＥＮＡＲＩＯ：Cyber Fortress Technologies has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure. Our client has requested a demonstration of how we'll be able to protect their cloud infrastructure.
 
-<details>
-    <summary><b>ＯＵＲ　ＳＯＬＵＴＩＯＮ</b></summary><br/>
-  Cyber Fortress Technologies has developed a comprehensive solution to address the cybersecurity needs of the client company's cloud infrastructure. Our approach begins by implementing IAM accounts following AWS best practices, ensuring tight control and monitoring of access to the cloud environment. To establish a secure network architecture, Cyber Fortress has deployed a Virtual Private Cloud (VPC) and divided it into private and public subnets, effectively isolating critical resources from potential threats on the public internet.
-  
-Within the private subnet, Cyber Fortress has set up a Windows Server domain controller (DC) that adheres to rigorous CIS-compliance standards. WE prioritize server hardening techniques and implement robust data protection measures, including encryption of data both at rest and in transit. This ensures that sensitive information remains secure and inaccessible to unauthorized individuals. Additionally, a Linux server instance is deployed in compliance with CIS standards, providing a dedicated and highly secure environment for handling sensitive data such as Personally Identifiable Information (PII) and Payment Card Industry (PCI) data.
+> ＯＵＲ　ＳＯＬＵＴＩＯＮ: Cyber Fortress Technologies has developed a comprehensive solution to address the cybersecurity needs of the client company's cloud infrastructure. Our approach begins by implementing IAM accounts following AWS best practices. To establish a secure network architecture, Cyber Fortress has deployed a Virtual Private Cloud (VPC) and divided it into private and public subnets, effectively isolating critical resources from potential threats on the public internet.
+> 
+> Within the private subnet, Cyber Fortress has set up a Windows Server domain controller (DC) that adheres to rigorous CIS-compliance standards. We prioritize server hardening techniques and implement robust data protection measures, including encryption of data both at rest and in transit. Additionally, a Linux server instance is deployed in compliance with CIS standards, providing a dedicated and highly secure environment for handling sensitive data such as Personally Identifiable Information (PII) and Payment Card Industry (PCI) data.
+> 
+> As an integral part of their solution, Cyber Fortress establishes continuous security monitoring by actively monitoring event logs in real time, with a focus on key assets such as EC2 instances. This proactive approach allows for the swift detection of any suspicious or malicious activities, enabling immediate response and mitigation to potential threats. 
 
-As an integral part of their solution, Cyber Fortress establishes continuous security monitoring by actively monitoring event logs in real time, with a focus on key assets such as EC2 instances. This proactive approach allows for the swift detection of any suspicious or malicious activities, enabling immediate response and mitigation to potential threats. To demonstrate the effectiveness of their solution, Cyber Fortress performs a simulated attack on the client's cloud infrastructure. This exercise showcases the robust cloud monitoring capabilities and detection mechanisms that Cyber Fortress brings to the table, providing the client with a firsthand understanding of the level of protection and response capabilities they can expect in their cloud environment.
-  </details>
 
 
 # The team
