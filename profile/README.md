@@ -6,7 +6,7 @@
 </p>
 
 
-# Description of our project 
+# Description of our project :fire:
 > ＯＵＲ　ＣＯＭＰＡＮＹ：Cyber Fortress Technologies is a cybersecurity company specializing in providing comprehensive solutions for improving the security and protection of cloud infrastructure. Cyber Fortress Technologies is a highly skilled and experienced cybersecurity company that offers comprehensive solutions to protect cloud infrastructure. Cyber Security focused on robust IAM implementation, VPC segmentation, server hardening, data encryption, and real-time monitoring, Cyber Security aim to provide their clients with a secure and resilient cloud environment.
 
 > ＯＵＲ　ＳＣＥＮＡＲＩＯ：Cyber Fortress Technologies has been contracted to improve the cybersecurity processes and systems for a client company, focusing on logging, monitoring and detection of adversarial activity on cloud infrastructure. Our client has requested a demonstration of how we'll be able to protect their cloud infrastructure.
@@ -19,9 +19,9 @@
 
 
 
-# The team
+# The team :triangular_flag_on_post:
 <details>
-    <summary><b>✨About Spencer</b></summary><br/>
+    <summary><b> :point_left: About Spencer :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/spencymitch">
@@ -37,7 +37,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 </details>
 
 <details>
-    <summary><b>✨About Rob</b></summary><br/>
+    <summary><b> :point_left: About Rob :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/RobG-11">
@@ -53,7 +53,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 </details>
 
 <details>
-    <summary><b>✨About Nick</b></summary><br/>
+    <summary><b> :point_left: About Nick :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/NicholasLoiacono">
@@ -69,7 +69,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 </details>
 
 <details>
-    <summary><b>✨About Stan</b></summary><br/>
+    <summary><b> :point_left: About Stan :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/Sfergy3">
@@ -85,7 +85,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 </details>
 
 <details>
-    <summary><b>✨About Connie</b></summary><br/>
+    <summary><b> :point_left: About Connie :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/connieuribe/">
@@ -104,26 +104,30 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 
-# PM tools used 
-https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-- [Trello Board](https://trello.com/b/x76ADRAC/project-management)
+# PM tools used :computer:
+[![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
 
 
 
-# 🔎Repos ✒️
-![badge](https://img.shields.io/badge/MSI%20laptop-FF0000?style=for-the-badge&logo=null&logoColor=white)
-![](https://img.shields.io/static/v1?label=shield&message=message&color=red)
+# Repos :bulb:
+[![badge](https://img.shields.io/badge/Documentation%20Repo-FF0000?style=for-the-badge&logo=github&logoColor=black)]()
+[![Button](https://img.shields.io/badge/Documentation%20Repo-FF0000?style=for-the-badge)](https://github.com/harish-sethuraman/readme-components)
+[![Button](https://img.shields.io/badge/Documentation%20Repo-FF0000?style=for-the-badge)](https://github.com/harish-sethuraman/readme-components)
 
 
 
-# Slideshow presentation and presentation video 
+
+
+
+
+# Slideshow presentation :clapper: and presentation video :sound:
 - [Slide show upload]()
 - [Video Presentation Upload]()
 
 
 
 
-# Topology and other images 
+# Topology and other images :bookmark_tabs:
 
 
 
@@ -149,7 +153,7 @@ https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoC
 
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
 [![Button Component](https://readme-components.vercel.app/api?component=button&text=ClickHere)](https://github.com/harish-sethuraman/readme-components)
-
+![badge](https://custom-icon-badges.demolab.com/badge/Repo-red.svg?logo=repo)
 
 
 
