@@ -109,7 +109,7 @@ Marine veteran located in Florida. Has a B.A. in computer science with previous 
 [![Button](https://img.shields.io/badge/Standard%20Procedures%20Repo-7d0404?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/SOPs)
 
 # Slideshow presentation :clapper: and presentation video :sound:
-- [Slide show upload]()
+- [Slide show upload](https://docs.google.com/presentation/d/14PsZaqlSNCjCB4NZdyEmpsR-9f6knrBUdiOihuTeoWI/edit?usp=sharing)
 - [Video Presentation Upload]()
 
 # Topology and other images :bookmark_tabs:
