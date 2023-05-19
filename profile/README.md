@@ -33,7 +33,7 @@
         </tr>
     </tbody><br/>
 </table>
-Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+USMC veteran and OEF veteran. Generator mechanic, worked maitenacne in previous careers. Skillset match and opportunities growth.
 </details>
 
 <details>
@@ -49,7 +49,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
         </tr>
     </tbody><br/>
 </table>
-Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+Previously employed as a DTRA DoD Red Team Liaison. Chose cybersecurity to challenge myself. Pursuing a SOC Analyst position.
 </details>
 
 <details>
@@ -65,11 +65,11 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
         </tr>
     </tbody><br/>
 </table>
-Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+Veteran with 10 years of military experience. Career transition to cybersecurity fron engineering. Looking to challenge myself and spend time with family.
 </details>
 
 <details>
-    <summary><b> :point_left: About Stan :zap: </b></summary><br/>
+    <summary><b> :point_left: About Stanley :zap: </b></summary><br/>
   <tbody>
         <tr>
             <td><a href="https://github.com/Sfergy3">
@@ -81,7 +81,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
         </tr>
     </tbody><br/>
 </table>
-Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+US Army Reservist. Driven to learn and expand knowledge. Advid gamer and combat sports fan. 
 </details>
 
 <details>
@@ -97,7 +97,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
         </tr>
     </tbody><br/>
 </table>
-Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sample text.
+Marine veteran located in Florida. Has a B.A. in computer science with previous programming experience. Enjoys being outdoors and likes to garden. 
 </details>
 
 
@@ -113,7 +113,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 - [Video Presentation Upload]()
 
 # Topology and other images :bookmark_tabs:
-![Topology](https://github.com/Cyber-Fortress-Technologies/Project-Docs/blob/main/AWS%20Topology.pptx.jpg)
+![Topology](https://github.com/Cyber-Fortress-Technologies/Project-Docs/blob/main/AWS%20Topology.pptx%20(1).jpg)
 
 
 
