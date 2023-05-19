@@ -102,7 +102,7 @@ Sample text. Sample text. Sample text. Sample text. Sample text. Sample text. Sa
 
 
 # PM tools used :computer:
-[![Trello Board](https://img.shields.io/badge/Our%0Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
+[![Trello Board](https://img.shields.io/badge/Our%20Trello%20Board-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/x76ADRAC/project-management)
 
 # Repos :bulb:
 [![badge](https://img.shields.io/badge/Documentations%20Repo-7d0404?style=for-the-badge)](https://github.com/Cyber-Fortress-Technologies/Project-Docs)
