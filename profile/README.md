@@ -33,7 +33,7 @@
         </tr>
     </tbody><br/>
 </table>
-USMC veteran and OEF veteran. Generator mechanic, worked maitenacne in previous careers. Skillset match and opportunities growth.
+Cybersecurity professional with background in electrical and mechanical labor. Passionate about learning about all aspects of the cybersecurity world and retaining knowledge to help businesses succeed. United States Marine Corps and Operation Enduring Freedom Veteran.
 </details>
 
 <details>
